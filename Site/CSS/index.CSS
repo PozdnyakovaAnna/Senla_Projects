@@ -1,0 +1,32 @@
+* {
+    margin: 0 auto;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 220, 245);
+}
+
+body {
+    max-width: 700px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+header{
+    text-align: left;   
+}
+
+table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    border: 2px ridge rgb(102, 129, 219);
+}
+
+.vertik {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+sup {
+    padding-left: 1px;
+  }

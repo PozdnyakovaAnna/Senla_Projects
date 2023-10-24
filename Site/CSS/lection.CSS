@@ -1,0 +1,19 @@
+* {
+    margin: 10px 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 220, 245);
+}
+
+header, main {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+div {
+    border: 2px ridge rgb(102, 129, 219);
+    border-radius: 5px;
+}
